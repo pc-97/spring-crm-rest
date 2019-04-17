@@ -7,6 +7,13 @@ Customer Relationship Management : A Spring-Hibernate REST API CRUD application.
 * Run application on web server (Tomcat).
 * Test the API with client tool such as Postman to perform various CRUD operations (Create, Read, Update and Delete).
 
+# REST APIs :
+* GET : /api/customers
+* GET : /api/customers/{customerId}
+* POST : /api/customers
+* PUT : /api/customers
+* DELETE : /api/customers/{customerId}
+
 
 (This project is a part of the course Spring & Hibernate for Beginners (includes Spring Boot) by Chad Darby)
 
